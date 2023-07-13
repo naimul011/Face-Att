@@ -93,4 +93,5 @@ The final section of the notebook focuses on generating captions for facial imag
 4. Saving the predicted captions in a CSV file.
 5. Visualizing test images with their predicted captions.
 
-Please refer to the notebook `(5)imagecaptioning_ResNet50_epoch200_English.ipynb` for detailed code implementation and further instructions on running the project.
+## Results
+![alt text](Capture.png)
