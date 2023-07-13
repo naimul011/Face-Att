@@ -5,6 +5,7 @@ This project aims to enhance the face captioning process by incorporating facial
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [Image Preprocess](#image-preprocess)
 - [Text Preprocess](#text-preprocess)
@@ -18,6 +19,24 @@ This project aims to enhance the face captioning process by incorporating facial
 
 The goal of this project is to generate accurate and descriptive captions for facial images using a combination of facial attributes and natural language processing techniques. By incorporating facial attributes, the model can generate more contextually relevant captions for each image.
 
+## Dataset
+### Download
+<a id="raw-url" href="https://zenodo.org/record/8144361">Download Dataset</a>
+@dataset{naimul_haque_2023_8144361,
+  author       = {Naimul Haque and
+                  Abida Sultana},
+  title        = {{FaceAttDB: A Multilingual Dataset for Facial 
+                   Attribute Captioning}},
+  month        = jul,
+  year         = 2023,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.8144361},
+  url          = {https://doi.org/10.5281/zenodo.8144361}
+}
+
+### Preview
+![alt text](sample_dataset.png)
+![alt text](caption_table.png)
 ## Dependencies
 
 To run this project, the following dependencies are required:
