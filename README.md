@@ -20,19 +20,20 @@ This project aims to enhance the face captioning process by incorporating facial
 The goal of this project is to generate accurate and descriptive captions for facial images using a combination of facial attributes and natural language processing techniques. By incorporating facial attributes, the model can generate more contextually relevant captions for each image.
 
 ## Dataset
+The FaceCaption dataset is a curated collection specifically created for the purpose of research in the field of facial attribute captioning. It consists of 2,000 portrait images sourced from the CelebA dataset, showcasing a diverse range of facial characteristics such as age, gender, expression, and hair color. The dataset includes five captions per image, providing both English and Google-translated Bangla versions.
+
+The dataset is designed to facilitate the exploration of multilingual caption generation on portrait images. Each image in the dataset is accompanied by descriptive and informative captions that accurately describe the visual characteristics present in the image. The captions were generated based on the attribute annotations available in the CelebA dataset, ensuring a close alignment between the captions and the visual attributes.
+
+The images in the BanglaFaceCaption dataset are conveniently stored in a single folder, making them easily accessible for training and evaluation purposes. Additionally, an accompanying Excel sheet is provided, linking each image file with its corresponding English and Bangla captions.
+
+While the current version of the dataset comprises 2,000 images with five captions each, future work aims to expand the dataset size to enhance the diversity and robustness of models trained on it. The BanglaFaceCaption dataset serves as a valuable resource for researchers and practitioners interested in advancing the field of facial attribute captioning and exploring multilingual caption generation capabilities.
 ### Download
 <a id="raw-url" href="https://zenodo.org/record/8144361">Download Dataset</a>
-@dataset{naimul_haque_2023_8144361,
-  author       = {Naimul Haque and
-                  Abida Sultana},
-  title        = {{FaceAttDB: A Multilingual Dataset for Facial 
-                   Attribute Captioning}},
-  month        = jul,
-  year         = 2023,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.8144361},
-  url          = {https://doi.org/10.5281/zenodo.8144361}
-}
+### Cite as
+Cite as
+Naimul Haque, & Abida Sultana. (2023),
+FaceAttDB: A Multilingual Dataset for Facial Attribute Captioning [Data set]. Zenodo. doi: 10.5281/zenodo.8144361
+
 
 ### Preview
 ![alt text](sample_dataset.png)
