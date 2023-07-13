@@ -94,4 +94,7 @@ The final section of the notebook focuses on generating captions for facial imag
 5. Visualizing test images with their predicted captions.
 
 ## Results
-![alt text](Capture.png)
+![alt text](Capture.PNG)
+![alt text](Capture2.PNG)
+![alt text](Capture3.PNG)
+![alt text](Capture4.PNG)
