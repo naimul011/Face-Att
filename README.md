@@ -36,7 +36,7 @@ The goal of this project is to generate accurate and descriptive captions for fa
 
 ### Preview
 ![alt text](sample_dataset.png)
-![alt text](caption_table.png)
+![alt text](caption_table.PNG)
 ## Dependencies
 
 To run this project, the following dependencies are required:
